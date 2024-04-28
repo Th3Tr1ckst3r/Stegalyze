@@ -9,4 +9,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/Th3Tr1ckst3r/Stegalyze)](https://github.com/Th3Tr1ckst3r/Stegalyze/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/Th3Tr1ckst3r/Stegalyze)](https://github.com/Th3Tr1ckst3r/Stegalyze/issues)
 
-A Python3-based program for detecting the presence of steganography through unconventional means.
+A Python3-based program for detecting the presence of steganography through unconventional means. A word of warning, certain projects may
+use similar techniques to achieve the same thing, so if you have one, or more positives it is very likely that the file your testing contains the 
+presence of steganography.

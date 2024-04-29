@@ -44,8 +44,8 @@ Well, that first email Bob got from who he thought was Alice containing a pictur
 a piece of malware from point A to point B. As for the second email that Bob had received from Alice, that innocent looking PDF also contained a malicious payload that when opened 
 would extract, & execute the malware without Bob even knowing it. At that point, it was too late for Bob, & the network the company he works for. 
 
-That being said, as antivirus vendors, and security/threat analysts are not always monitoring all the files through the network. This real-world example highlights why its just as important
-to not underestimate a file, document, or picture simply because of its type, how it works, or the data that it contains.
+That being said, as antivirus vendors, and security/threat analysts are not always monitoring all the files through the network. This real world example highlights why its just as important
+to not underestimate a file, document, or picture simply because of its type, how it works, or the data that it contains. As Steganography is in, & of itself the art of hiding its own existence.
 
 # Why use Stegalyze?
 

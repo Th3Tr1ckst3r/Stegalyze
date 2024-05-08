@@ -28,14 +28,17 @@ taught us anything, from espionage, to digital privacy, & internet freedoms. Its
 Let's use a real world example of what could happen if steganography is involved in a cyber attack, & why we should all be monitoring files of any kind:
 
 ```
-Bob has a friend named Alice, & Alice works in an office setting with Bob. Alice sent Bob a picture via email of a kitten she claimed to have gotten that day. Later on,
-Bob receives another email from Alice on his laptop, containing a PDF of pictures that Alice has taken of her new kitten. Bob thought this was really cute, & thought nothing
-of it. Bob gets home, & decides he wants to get some extra work done from home. Bob gets on his laptop when suddenly he can't. His laptop has stopped working all together,
-so in the morning he takes his laptop into the shop to see if they can fix it. Before Bob could get a word in, his boss asks him to take a seat. Suddenly, he is made aware
-that things have taken a turn for the worst. Bob is informed that he was a victim of a network phishing campaign, & that his email had been compromised. Bob didn't know
-exactly what this meant, but it sure got his attention. His boss also informed Bob that his email was used by the attackers to spread the same set of documents to his
-coworkers. Suddenly, Bob feels his job security is at risk, he has a family to provide for, & this could jeopardize everything he has worked so hard to achieve. Not to mention
-the thought of this causing even more trouble for his coworkers, & Bob had no idea.
+Bob has a friend named Alice, & Alice works in an office setting with Bob.
+Alice sent Bob a picture via email of a kitten she claimed to have gotten that day. Later on,
+Bob receives another email from Alice on his laptop, containing a PDF of pictures that Alice has taken of her new kitten.
+Bob thought this was really cute, & thought nothing of it. Bob gets home, & decides he wants to get some extra work done from home.
+Bob gets on his laptop when suddenly he can't. His laptop has stopped working all together, so in the morning he takes his laptop
+into the shop to see if they can fix it. Before Bob could get a word in, his boss asks him to take a seat. Suddenly, he is made aware
+that things have taken a turn for the worst. Bob is informed that he was a victim of a network phishing campaign, & that
+his email had been compromised. Bob didn't know exactly what this meant, but it sure got his attention.
+His boss also informed Bob that his email was used by the attackers to spread the same set of documents to his
+coworkers. Suddenly, Bob feels his job security is at risk, he has a family to provide for, & this could jeopardize everything
+he has worked so hard to achieve. Not to mention the thought of this causing even more trouble for his coworkers, & Bob had no idea.
 ```
 
 So, what can we learn from this example? 
